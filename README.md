@@ -1,1 +1,1 @@
-This is xSMEPITERNAL's first git project
+This is xSEMPITERNAL's first git project
